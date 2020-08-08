@@ -11,6 +11,8 @@ This should be fabricated from a thin, transparent plastic.
 The `samples` folder contains a sample of the default output, a 100 mm square 
 mask with 1 mm line spacing, 20 deg mask angle, and 5 mm rounded corners.
 
+![Sample Image](https://raw.githubusercontent.com/jkua/bahtinovMask/master/samples/bahtinovMask_100.0mm_spacing1.0mm_angle20.0deg.svg)
+
 ## Install requirements
 `pip3 install -r requirements.txt`
 
